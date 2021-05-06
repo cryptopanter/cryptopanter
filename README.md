@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cryptopanter
-- 👀 I’m interested in Nothing 
+- 👀 I’m interested in Nothing($MNO) 
 - 🌱 I’m currently learning Stacks 
 - 🎩 I’m looking to collaborate on The Big Idea, Bithority
 - 💡 I'm kinda solution/logic architect in blockchain
